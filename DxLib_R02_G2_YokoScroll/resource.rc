@@ -1,0 +1,5 @@
+//最初にあったソースコードは、全て削除すること。
+//必ず、改行で終わること。
+
+#include "resource.h"
+IDI_ICON1 ICON ".\\ICO\\game.ico"
